@@ -1,6 +1,6 @@
-p {
+.ancestor{
 background-color: #fac7c7;
-font-family: Verdana,DejaVu-Sans, sans-serif;
+font-family: Verdana,"DejaVu Sans",sans-serif;
 }
 
 #inpar {
