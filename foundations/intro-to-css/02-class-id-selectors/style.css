@@ -1,5 +1,5 @@
 p {
-background-color: rgb(250, 199, 199);
+background-color: #fac7c7;
 font-family: Verdana,DejaVu-Sans, sans-serif;
 }
 
@@ -13,7 +13,7 @@ font-size: 36px;
 }
 
 #par {
-  background-color: hwb(120 50% 21%);
+  background-color: rgb(128, 201, 128);
   font-size: 24px;
   font-weight: bold;
 }
