@@ -8,7 +8,7 @@ font-family: Verdana,"DejaVu Sans",sans-serif;
 }
 
 #name { 
-color: blue;
+color: hsl(240, 100%, 50%);
 font-size: 36px;
 }
 
